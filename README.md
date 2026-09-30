@@ -115,7 +115,7 @@ Defi Protocols:
 - [Jupiter Aggregator API Rust Bindings](https://github.com/mvines/rust-jup-ag) [](https://img.shields.io/github/stars/mvines/rust-jup-ag.svg?style=social)
 
 Trading Terminals:
-- [GDEX Pro](https://trade.btnomb.com) - Solana trading terminal with Apple Pay on-ramp, sub-second confirmations, and Base L2 USDC
+- [GDEX Pro](https://gdex.pro/) - Multi-chain crypto trading terminal with Solana support, copy trading and wallet analytics.
 
 Canonical open source examples:
 - [SPL Token Lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound
